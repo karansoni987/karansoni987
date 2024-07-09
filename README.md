@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Android, Java , Kotlin , C , C++ , Firebase & GitHub**
 
-- 📫 How to reach me **rishavjoshi122@gmail.com**
+- 📫 How to reach me **karan987.soni@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
