@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <p align="left">
 
-<a href="https://www.upwork.com/freelancers/~0127bcb0bb4c9212a7" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRxx4Q1Ez4mYSgyeficw6D3XTJ-q_VBi60WauCd7_fNFx_WGXnRG-pOeo2AViX49yYEcc&usqp=CAU" alt="vivekahuja" height="30" width="40" /></a>
+<a href="https://www.upwork.com/freelancers/ksoni" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRxx4Q1Ez4mYSgyeficw6D3XTJ-q_VBi60WauCd7_fNFx_WGXnRG-pOeo2AViX49yYEcc&usqp=CAU" alt="ksoni" height="30" width="40" /></a>
 
 
 </p>
