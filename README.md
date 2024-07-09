@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karansoni987" alt="karansoni987" /></a> </p>
 
-- 🌱 I’m currently learning **Android, Kotlin & Firebase**
+- 🌱 I’m currently learning **React, AI websites & Firebase**
 
 - 👨‍💻 All of my projects are available at [https://github.com/karansoni987](https://github.com/karansoni987)
 
-- 💬 Ask me about **Android, Java , Kotlin , C , C++ , Firebase & GitHub**
+- 💬 Ask me about **React, Node, Vue, PHP, JavaScript, Wordpress, Shopify and AI websites & web app development**
 
 - 📫 How to reach me **karan987.soni@gmail.com**
 
